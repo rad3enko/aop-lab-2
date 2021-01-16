@@ -1,6 +1,6 @@
-package ru.sdo.ism91z.radchenko.model.impl;
+package ru.sdo.ism91z.radchenko.model.parts.impl.sony;
 
-import ru.sdo.ism91z.radchenko.model.Leg;
+import ru.sdo.ism91z.radchenko.model.parts.Leg;
 
 public class SonyLeg implements Leg {
 
